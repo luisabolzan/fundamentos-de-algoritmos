@@ -1,0 +1,1 @@
+(rectangle 30 60 "solid" "black")
